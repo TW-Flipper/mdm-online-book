@@ -144,6 +144,68 @@ Apple 帳號可以透過 Apple 網站建立
 https://account.apple.com/
 
 
+### 你也應該知道這些名詞！
+
+>連接學生與老師的 App
+
+![課堂]()
+
+#### 課堂
+
+與 Apple 校務同時公布供教育使用的 iPad 專用 App。教師端啟動該 App 時，同網路中的學生、兒童所使用的 iPad 都會納入控制之下，可以啟動 App、指向特定的作業、或者透過 AirDrop 傳送檔案。另外還可以進行鎖定畫面、靜音等控制。教室 App 單獨也可以使用，主要是與 Apple 校務相互連結進行管理，可讓 iPad 更適宜用於課堂授業用途。
+
+>出家庭作業、確認完成進度
+
+![課業]()
+
+#### 課業
+
+功課可配合課堂 App 一起使用，是可用來加強學生、兒童學習體驗的免費 App。功課顧名思義，教師可以從 iPad 中將網頁連結或 PDF、文件或者特定 App 中的活動，簡單地配發到學生、兒童的 iPad 上頭，也可以和學生、兒童進行一對一的溝通，確認其功課的完成狀態來給予指導，也可以針對個別學習狀態量身打造功課。此外，學生、兒童功課的進度與期限都可以在 iPad 上進行管理。
+
+
+>想要打造專用 App 的話
+
+![Apple Developer Program]()
+
+#### Apple Developer Program
+
+當組織內要進行 App 開發的話，則必須加入本計畫。只要有 Apple 帳號的話個人也能夠註冊、註冊本身為免費。但如果要透過 App Store 販賣、發送 App 的話， 就必須支付約 99 美元（新台幣 3,400 元）的年費。企業開發的 App 不需要透過 App Store 公布，而是要針對職員為對象開發、部署的話，就可以申請「Apple Developer Enterprise Program」。
+
+>Apple 官方的部署工具(macOS 專屬)
+
+![Apple Configurator]()
+
+#### macOS 版 Apple Configurator
+
+這是 Apple 透過 Mac App store 所提供的部署設定描述檔的工具程式。可以將設定描述檔檔製作完畢後，利用有線的方式安裝在 iOS、iPadOS 與 tvOS 設備上。 同時能與和「大量採購計劃」相結合， 所以也能管理並安裝 App 在 iOS、iPadOS 與 tvOS 的設備；另外也能將 iOS、iPadOS 與 tvOS 設備加入至「Apple 校務管理」、「Apple 商務管理」中，讓這些設備未來能利用 MDM 系統遠端更新設定。由於這個軟體只能運作在 macOS 上，而且必須與裝置接上線才能更新設定， 比較適合應用於少量設備管理。
+
+>Apple 官方的準備工具(iOS 專屬)
+
+![Apple Configurator]()
+
+#### iOS 版 Apple Configurator
+
+這是 Apple 透過 App store 所提供的準備工具。可以將 iOS、iPadOS 與 macOS 設備加入至「Apple 校務管理」、「Apple 商務管理」中，讓這些設備未來能利用 MDM 系統遠端更新設定。
+
+>Apple 官方的雲端服務
+
+![iCloud]()
+
+#### iCloud
+
+iCloud 是 Apple 所提供的雲端服務，可以用來保存 iPhone，iPad 或者 Mac 等 Apple 產品裡頭的通訊錄、訊息、照片等內容於雲端， 在裝置之間同步、分享。此外 iCloud 還有分享協同的功能，例如「照片」可以設置「共享的相簿」、iWork App（Pages、Numbers 與 Keynote）也可以進行協同作業。iCloud 免費 提供 5GB 的空間，最大付費可以擴充到 2TB 的儲存空間。此外，教育機關則是提供免費 200GB 的空間可以使用。
+
+>更了解 Apple 產品的活用術
+
+![Apple Teacher]()
+
+#### Apple Teacher
+
+這是提供給教師使用的專業學習方案，用來學習或者教導如何活用 Apple 產品。只要有 Apple 帳號的話就可以註冊，透過網頁來學習 Mac 與 iPad、隨附軟體與 App 的相關知識，以及實際使用的技巧與工作流程。Mac 的話則可配合教材如「Mac 版 Pages 使用手冊」、 「Mac 版 Keynote 使用手冊 」 等 iBooks 提供的指南書來學習技巧，更可以直接參考線上協助。完成測驗後就可以會獲得標章，會提供官方徽章來認定你是 Apple Teacher。
+
+
+
+
 
 
 
