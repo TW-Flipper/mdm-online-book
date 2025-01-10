@@ -55,6 +55,8 @@ iOS 與 macOS，對於微軟 Office 以及 Google 的 Google WorkSpace 等多數
 IT 的角色就從被使用的工具轉換成能用的工具。Apple 在消費者市場所引發的革命，現在就將要在企業與教育等場景再一次地重現。若能對這種企圖有所共感，並且願意為商務及教育場景開拓新的未來的話，選擇 Apple 產品就是最佳的捷徑。
 
 ![「Apple 產品充分協助公司員工以簡馭繁，事半功倍，運用創意解決問題，並朝共同目標合作。」摘自 Apple 商務向首頁「Apple at work」]()
+**https://www.apple.com/tw/business/**
+
 
 
 
