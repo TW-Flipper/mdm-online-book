@@ -26,11 +26,11 @@ STEP 5 - 進行基本設定
 
 #### 推薦使用「自動裝置註冊」
 當在大量部署 iPhone、iPad 與 Mac 等 Apple 產品時，推薦使用 Apple 所提供輔 助部署機制「自動裝置註冊」來省時省力。可以透過支援「自動裝置註冊」的通路 窗口，或者支援「自動裝置註冊」的 Apple Store 都可以，但請在購買前確認其是否 支援「自動裝置註冊」。購買以後，就會提供給你「Apple 客戶編號」或者「經銷商 編號」來註冊使用。
-![Apple Retail]()
+![Apple Retail](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/0800-095-988.png)
 直接從 Apple 購買時，可透過免付費電話（ 台灣 0800-095-988）取得「Apple 客戶編號」。
 https://www.apple.com/tw/retail/business/
 
-![Apple Automated Device Enrollment]()
+![Apple Automated Device Enrollment](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/HT204142.png)
 從 Apple Store 或支援「自動裝置註冊」的授權經銷
 商購買硬體時會提供給你「經銷商編號」。
 https://support.apple.com/zh-tw/HT204142
@@ -38,12 +38,12 @@ https://support.apple.com/zh-tw/HT204142
 #### 取得鄧白氏認證號碼
 可以與購買 Apple 產品同步進行的事前準備手續包括取得鄧白氏（D-U-N-S：The Data Universal Numbering System）號碼。這是 1962 年由 D&B（Dun and Bradtreet）所 開發的九碼企業識別號碼，可以透過它來確認全世界的企業與法人團體。ABM 以及 ASM 都透過這固定號碼來識別個別組織。可以與當地鄧白氏直接聯絡付費申請。其實 也可以透過 Apple 開發者服務（Apple Developer Program）來免費取得號碼，需要以 英文和鄧白氏公司進行聯絡確認各事項，時間約為二至三週。新申請鄧白氏號碼時， 按照組織形態的不同，所需要準備的文件會有所差異。
 
-![D-U-N-S website]()
+![D-U-N-S website](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/D-U-N-SNumber.png)
 在台灣若要直接申請鄧白氏號碼，可和鄧白氏接洽
 付費申請。 
 https://dunscertified.dnb.com.tw
 
-![Apple Developer D-U-N-S Number]()
+![Apple Developer D-U-N-S Number](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/dunscertified.png)
 Apple 開發者服務也可以申請鄧白氏號碼。
 https://developer.apple.com/support/D-U-N-S/
 
@@ -53,33 +53,33 @@ https://developer.apple.com/support/D-U-N-S/
 購買 Apple 產品之後，企業就要註冊 ABM，學校則是註冊 ASM。手續都是透過網頁瀏覽器於線上到入口網站進行即可。所需要準備的資料就是：申請組織的資訊以及 與 Apple 訂立契約的負責人的聯絡方式。Apple 會透過所提供的負責人電話號碼或郵件位址進行確認聯絡，所以由負責人本人來進行登記設定會最為直接完善。 註冊審查時間最長不會超過五個工作日，會於平日早上九點到晚上五點營業時間內進行電話上的確認聯絡，所以請要有接電話的心理準備。如果沒有缺少任何資料或錯誤的話，就會將審核結果透過郵件寄送，在一個禮拜之內就可以完成註冊手續。
 
 #### 註冊 ABM
-![Apple Business Manager login]()
+![Apple Business Manager login](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Apple%20Business%20Manager%20login.png)
 以註冊 ABM 為例進行說明。首先到 ABM 網站點擊「立即註冊」https://business.apple.com
 
 #### 輸入申請資訊
-![Registeration form]()
+![Registeration form](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Registeration%20form.png)
 逐次輸入「姓氏」、「名字」、「工作電子郵件」「企業名稱」，「網站」並選擇是否要收到「Apple 商務必備」的相關新聞和更新資訊，然後選取「繼續」。
 
 #### 建立帳號
-![Create account]()
+![Create account](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Create%20account.png)
 建立並確認新帳號的新密碼，然後選取區碼，並輸入你的電話號碼。
 
 到這邊就完成了 ABM / ASM 的註冊並且可以開始使用，但是當你登入時會發現很多功能不能夠使用，這些是因為 Apple 還沒有驗證，當驗證完成後就可以使用 ABM / ASM 的所有功能。
 
 #### 登入 ABM / ASM
-![Apple Business Manager login]()
+![Apple Business Manager login](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Apple%20Business%20Manager%20login.png)
 使用先前建立好的帳號登入 ABM / ASM。
 
 #### 驗證組織資訊
-![機構設定]()
+![機構設定](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Organization%20Setting%20.png)
 前往機構設定，並選取「驗證」。
 
 #### 輸入組織資訊
-![機構資訊]()
+![機構資訊](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Organization%20Info.png)
 逐次輸入「組織名稱」、取得的「D-U-N-S 號碼」、「電話號碼」（代表號等）「首頁網址」，
 
 #### 輸入驗證聯絡人資訊
-![驗證聯絡人資訊]()
+![驗證聯絡人資訊](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Contact%20Info.png)
 輸入組織代表者的名字以及郵件位址、職稱等。完成以後點擊「繼續」。
 
 #### 以郵件通知審查狀況
@@ -102,28 +102,29 @@ https://developer.apple.com/support/D-U-N-S/
 第一次登入後，管理式 Apple 帳號只有一組登記在公司下頭，後續最好追加其它的管理者帳號，並且幫員工或者教職員等建立管理式 Apple 帳號。這時為了不和一般所使用郵件位置重複，而會給予加上子網域名「appleaccount」的 Apple 帳號。但是為了同仁在登入時更加方便，可以透過「驗證網域」功能驗證組織所希望使用的網域，後續在建立其他的 Apple 帳號時即可選擇組織網域並進行建立，未來使用者登入時也不需要再額外記住另一組網域。
 
 #### 新增網域
-![管理式 Apple 帳號]()
+![管理式 Apple 帳號](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/add%20domain.png)
+
 前往管理式 Apple 帳號，並選取「新增網域」。
 
 #### 輸入網域
-![輸入網域]()
+![輸入網域](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/type%20domain.png)
 在欄位中輸入組織希望使用的網域，輸入完成後選取「新增網域」。
 
 #### 驗證網域
-![驗證網域]()
+![驗證網域](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/verify%20domain.png)
 網域新增完成後即可在清單中查看到剛才所新增的網域，選取「驗證」。
 
 #### DNS TXT 紀錄
-![TXT 紀錄]()
+![TXT 紀錄](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/DNS%20TXT.png)
 畫面中所出現的 TXT 紀錄必須要新增至網域管理的 DNS 設定中，當新增完成後選取「驗證」即可。
 
 
 #### 新增帳號
-![新增帳號]()
+![新增帳號](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/add%20account.png)
 要新增管理式 Apple 帳號，請於側邊欄選擇「帳號」於最右側欄位左上角選曲「＋（新增）」按鍵。
 
 #### 輸入姓名與使用者名稱
-![Account information form]()
+![Account information form](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Account%20info.png)
 輸入新帳號的姓名以及受管理 Apple 帳號的使用者名稱，以及職稱和實際在使用的郵件位址後按下「儲存」。
 
 ### 管理式 Apple 帳號的功能與機制
@@ -161,56 +162,56 @@ https://developer.apple.com/support/D-U-N-S/
 本部分將使用 Apple 產品管理首選解決方案 Jamf Pro 為例進行說明。
 
 #### 挑選 MDM 服務
-![Jamf Website]()
-挑選 MDM（ 行 動 裝 置 管理）服務。MDM 提供商每一家的服務內容、價格與支援內容都不一樣，需要按需求詢價後選出最適合的方案。
+![Jamf Website](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/jamf.com.png)
+挑選 MDM（行動裝置管理）服務。MDM 提供商每一家的服務內容、價格與支援內容都不一樣，需要按需求詢價後選出最適合的方案。
 
 #### 連結 MDM 伺服器
-![Apple Business Manager]()
+![Apple Business Manager](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Apple%20Business%20Manager-1.png)
 登入 ABM 或 ASM 後，選取側邊欄中的姓名後選擇「偏好設定」，在 MDM 伺服器右邊選擇「新增」
 
 #### 登入 MDM 服務
-![Jamf Pro Login Window]()
+![Jamf Pro Login Window](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Jamf%20Pro%20Login%20Window.001.png)
 到 MDM 服務網頁輸入使用者帳號與密碼後登入。如果使用 Jamf Pro 的話，畫面會如圖所示。
 
 #### 由設定選擇「自動裝置註冊」
-![Automated Device Enrollment]()
+![Automated Device Enrollment](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Automated%20Device%20Enrollment.png)
 
 #### 下載公鑰
-![Download Public Key]()
+![Download Public Key](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Download%20Public%20Key.001.png)
 顯示自動裝置註冊的設定畫面後，點擊右上角的「公鑰（Public Key）」， 就會下載副檔名為「.pem」的憑證檔案，會存放到「下載」檔案夾。
 
 #### 上傳公鑰
-![Upload Public Key]()
+![Upload Public Key](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Upload%20Public%20Key.013.png)
 
 #### 儲存 MDM 伺服器設定
-![Save MDM Server settings]()
+![Save MDM Server settings](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Save%20MDM%20Server%20settings.001.png)
 公鑰上傳完畢以後， 點擊右下「儲存」按鍵。之後就會將透過公鑰取得的 MDM 伺服器資訊儲存在 ABM 或 ASM 系統中。
 
 #### 下載 ABM/ASM 的權杖
-![Download ADE token]()
+![Download ADE token](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Download%20ADE%20token.001.png)
 接著要發行 ABM/ASM 的權杖 （Token）。 畫面點擊 「下載 MDM 伺服器代號」，就會將副檔名為「.p7m」的憑證檔案下載到「下載」檔案夾中。
 
 #### 上傳 ABM/ASM 的權杖
-![Upload ADE token1]()
+![Upload ADE token1](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Upload%20ADE%20token1.001.png)
 回到 MDM 服務的「自動裝置註冊」畫面，點擊「新增」按鍵。設定「顯示名稱」後點擊「上傳伺服器權杖檔案」。
-![Upload ADE token2]()
+![Upload ADE token2](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Upload%20ADE%20token2.001.png)
 跳出視窗後點選「選擇檔案」，到「下載」檔案夾中選擇剛才下載的 ABM/ASM 權杖Token，點擊「上傳」。
 
 #### 完成伺服器註冊
-![ADE Information in MDM]()
+![ADE Information in MDM](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/ADE%20Information%20in%20MDM%5D.001.png)
 上傳完畢後，MDM 服務就會顯示伺服器的識別碼（UUID）以及管理者 ID 和組織資訊等訊息。
 
 #### 完成權杖交換
-![ADE Information in ABM]()
+![ADE Information in ABM](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/ADE%20Information%20in%20ABM.001.png)
 這樣就完成 ABM / ASM 和 MDM 服務間的權杖交換，當需要修改資訊或者變更設定時，請到 ABM / ASM 的此畫面進行。
 
 #### 輸入購買通路資訊
-![Device suppliers]()
+![Device suppliers](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Device%20suppliers.001.png)
 於 ABM/ASM 的「偏好設定」畫面選擇「MDM 伺服器指派」，於客戶編號右邊選擇「編輯」並輸入「Apple 客戶編號」（從 Apple Store 購買的話），或者「經銷商編號」（於電信商、Apple 授權企業／教育經銷商購買）來進行註冊。
 
 #### 指派裝置
-![Assign Devices]()
-點擊側邊欄的「裝置」，並且在裡面選擇想要進行「自動裝置註冊」的設備，點擊右上角按鈕，選擇「編輯 MDM 伺服器」，並且在清單中選擇要分配給哪一個 MDM 伺服器。
+![Assign Devices](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Assign%20Devices.001.png)
+點擊側邊欄的「裝置」，並且在裡面選擇想要進行「自動裝置註冊」的設備，點擊右上角按鈕，選擇「編輯裝置管理服務」，並且在清單中選擇要分配給哪一個 MDM 伺服器。
 
 ## 進行基本設定
 ### 註冊使用者以及一次購買內容並且分發
@@ -223,33 +224,34 @@ ASM 最基本的設定方式開始吧。
 
 ### 設定職務
 #### 確認各職務的權限
-![ABM Roles]()
+![ABM Roles](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/ADE%20Information%20in%20ABM.001.png)
 這裡以 ABM 作為範例解說。點擊側邊欄「權限管理」中的「職務」可以確認各職務所具有的權限。
 
 #### 管理者職務
-![Content Manager]()
+![Content Manager](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Content%20Manager.001.png)
 以「內容經理」為例，可以使用管理式 Apple 帳號來購買 App 以及電子書。而「裝置註冊經理」能夠進行「自動裝置註冊」，但不能買 App。
 
 #### 幫助使用者賦予職務
+![Add Roles](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Add%20Roles.001.png)
 在「帳號」欄新增的使用者處可以賦予各種職務。點擊「編輯」按鍵可以變更調整權限。
 
 ---
 ### 購買內容
 #### 搜尋想要大量購買的 App 
-![App purchase]()
+![App purchase](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/App%20purchase.001.png)
 想要購買 App 或者電子書的話透過左邊選單中的「App 與電子書」（臺灣沒有電子書）進行。透過搜尋欄輸入關鍵字。
 
 #### 購買許可
-![Google App]()
+![Google App](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Google%20App.001.png)
 這裡以免費的「Google」App 為例進行說明。選擇 App 後於右側欄會顯示「購買許可」等資訊。
 *購買付費 App 的話，組織需要預先準備購買的經費*
 
 #### 指定數量與配發目標
-![Assign license]()
+![Assign license](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Assign%20license.001.png)
 內容經理可以在這裡可以決定購買的數量以及想要配發的「位置」等。確認總金額後點擊「取得」。
 
 #### 購買完成
-![Purchage complete]()
+![Purchage complete](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Purchage%20complete.001.png)
 購買完成後可以在App 一覽看到「可以使用 100」，透過「管理許可」畫面可以將App 分發到不同的「位置」。
 
 #### MDM 接收資訊
@@ -257,12 +259,12 @@ ASM 最基本的設定方式開始吧。
 App 的資訊會自動傳送到所註冊的 MDM 服務。Jamf Pro 的話則可以透過「行動裝置 App」來進行確認。
 
 #### 一次配發更簡單！
-![App distribution]()
+![App distribution](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/MDM%20App%20Catalog.001.png)
 如果透過 MDM 進行管理的話，不需要使用個人 Apple ID 等也可以一次配發到各裝置上頭。用來配發組織所使用的 App 非常方便。
 
 ### 設定「位置」
 #### 管理多個群組
-![Location management]()
+![Location management](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/App%20distribution.001.png)
 當有多個辦公室時， 可以從「位置」進行管理設定。如果有需要的話可點擊「新增位置（＋）」來增加。
 
 #### 根據位置不同製作內容代號
