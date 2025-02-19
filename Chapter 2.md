@@ -5,7 +5,7 @@
 
 只要妥善理解這些知識，就能達到成功部署的結果。
 
-![針對商務、教育的平台全體圖](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch1/Apple%20Full%20Lineup.png)
+![針對商務、教育的平台全體圖](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch2/Overview%20of%20Platforms%20for%20Business%20and%20Education.png)
 針對商務、教育的平台全體圖
 
 ### 其實很簡單的部署手續
