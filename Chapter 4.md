@@ -165,7 +165,7 @@ Jamf Pro 可以針對 tvOS 所使用的自開發的 App。基本概念以及設�
 
 使用 MDM 工具，可以針對辦公室或學校等所配置的Apple TV 功能，例如 AirPlay 鏡像功能、影片的串流功能等各種細節進行設定，避免受到預想外的濫用。具體來說可以針對開放／關閉 AirPlay 功能，或者第一次連接時是否一定要輸入密碼。此外也可以決定能透過 AirPlay 連結的裝置是要在同一個網路內，還是可以同意在附近的裝置也能使用。此外，也可以只讓特定的 iOS 裝置連結 Apple TV， 也可以控制 「Apple TV Remote」的連結權限。配合適當的 AirPlay 管理機制，可以安全地部署裝置。
 
-![AirPlay Restriction](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch4/Jamf%20Pro%20Deploy%20In-House%20Ap.png)
+![AirPlay Restriction](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch4/AirPlay%20Restriction.png)
 AirPlay 可以讓 iPhone、iPad 以及 Mac 以無線串流影片或者音樂。MDM 可以針對 Apple TV 的連結方式進行限制。
 
 ### 遠端指令
