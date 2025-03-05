@@ -255,56 +255,56 @@ ASM 最基本的設定方式開始吧。
 購買完成後可以在App 一覽看到「可以使用 100」，透過「管理許可」畫面可以將App 分發到不同的「位置」。
 
 #### MDM 接收資訊
-![MDM App Catalog]()
+![MDM App Catalog](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/MDM%20App%20Catalog.001.png)
 App 的資訊會自動傳送到所註冊的 MDM 服務。Jamf Pro 的話則可以透過「行動裝置 App」來進行確認。
 
 #### 一次配發更簡單！
-![App distribution](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/MDM%20App%20Catalog.001.png)
+![App distribution](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/App%20distribution.png)
 如果透過 MDM 進行管理的話，不需要使用個人 Apple ID 等也可以一次配發到各裝置上頭。用來配發組織所使用的 App 非常方便。
 
 ### 設定「位置」
-#### 管理多個群組
-![Location management](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/App%20distribution.001.png)
+#### 管理多個位置
+![Location management](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Location%20Management.png)
 當有多個辦公室時， 可以從「位置」進行管理設定。如果有需要的話可點擊「新增位置（＋）」來增加。
 
 #### 根據位置不同製作內容代號
-![VPP Token]()
+![VPP Token](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/VPP%20Token.png)
 若有多個位置的話，可由「偏好設定」中「付款與帳單」下載各自的內容代號。當位置需要部署 App 時，就以此進行兌換。
 
 #### 將授權傳送到各個位置
-![Locations]()
+![Locations](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Locations.png)
 設定完位置以後， 透過「大量採購」機制買到的 App 就可按位置別分配授權。可以在位置間轉讓授權，也可以委讓授權管理的量。
 
 ### ASM 的狀況
-#### 設定教室
-![ASM Classroom]()
-從側面欄的「成員」選擇「教室」，就會顯示註冊的教室一覽。教室可以按照科別不同製作，並且可以登錄位置以及教師資訊。
+#### 設定班級
+![ASM Classroom](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/ASM%20Classroom.png)
+從側面欄選擇「班級」，就會顯示註冊的班級一覽。班級可以按照科別不同製作，並且可以登錄位置以及教師資訊。
 
 #### 確認學生、兒童的資訊
-![ASM Classroom]()
+![ASM Users](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/ASM%20Users.png)
 可以為學生、兒童發行各自的使用者編號以及管理式 Apple 帳號，可以透過 MDM 以 CSV 檔案一次上傳所有的教室資訊。
 
 ### 一次註冊「教室」資訊
 #### 設定第一次的 SFTP 上傳 
-![Data source]()
-ASM 可以透過 SIS / SFTP 來上傳教職員、學生、兒童以及教室資訊。登入 ASM 後，點擊左下角的名字，從「偏好設定」中點擊「管理式 Apple 帳號」再選擇「目錄同步」。
+![Data source](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Data%20source.png)
+ASM 可以透過 SIS / SFTP 來上傳教職員、學生、兒童以及教室資訊。登入 ASM 後，點擊左下角的名字，從「偏好設定」中點擊「管理式 Apple 帳號」，再到「目錄同步」中點擊「開始使用」。
 
 #### 以 CSV 範本來處理資料
-![SIS/SFTP]()
+![SIS/SFTP](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/SIS_SFTP.png)
 就會提供給你 SFTP 的 URL、使用者名稱和密碼，利用此資訊於 SFTP 客戶端設定，同時可以下載 CSV 範本， 一共有位置、教室、學程等六種可供參考使用。
 
 #### 上傳到 SFTP
-![Upload with SFTP]()
+![Upload with SFTP](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Upload%20with%20SFTP.png)
 將這六個 CSV 檔案透過 ZIP 格式進行壓縮後，連結到 SFTP 伺服器，然後上傳
 到「Dropbox」檔案夾。上傳完畢後點擊透過 ASM 中「確認 SFTP 資料」來看是
 否有錯誤，也可以進行帳號與教室資訊的預覽。
 
 #### 分配權限給教職員
-![Assign role]()
+![Assign role](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Assign%20role.png)
 製作完管理式 Apple 帳號後，可配發給教職員用於登入。也可以給予各自所需要使用的職務。
 
 ### 預先將裝置註冊到 MDM
 Jamf Pro 有著「PreStage Enrollments（預先註冊）」的功能。這功能是將裝置的設定存放在 Jamf Pro 中，當要對各裝置進行初始設定時就可以直接套用。若要使用「PreStage Enrollments（預先註冊）」的話，就如迄今為止的說明，將「自動裝置註冊」與 Jamf Pro 連結後就可以使用。此外，關於 Jamf Pro 各種管理功能的詳細說明請見第 18 頁後。
-![Jamf Pro Prestage Enrollment]()
+![Jamf Pro Prestage Enrollment](https://info.aatp.com.tw/hubfs/MDM%20Books%202025/Ch3/Jamf%20Pro%20Prestage%20Enrollment.png)
 Jamf Pro 可以透過側面欄的「PreStage Enrollments」 來讀取透過「自動裝置註冊」配置裝置的設定。
 
