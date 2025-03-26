@@ -23,10 +23,8 @@
 |   | 註冊方法 | 使用者手續 | 監管模式 |
 | ------------------ | ------ | --------- | ------ |
 |自動裝置註冊          | 自動註冊 |拿到裝置後開啟電源連上網路就會自動設定好 | ✅ |
-| 描述檔式「裝置註冊」  | 手動註冊 |透過安裝註冊描述檔加入管理 | ✅（Mac）  
-❌（iPhone、iPad、Apple TV、Apple Vision Pro） |
-| 帳號導向的「裝置註冊」| 手動註冊 | 透過在「設定」或「系統設定」中登入「管理式 Apple 帳號」 |✅（Mac）  
-❌（iPhone、iPad、Apple Vision Pro）|
+| 描述檔式「裝置註冊」  | 手動註冊 |透過安裝註冊描述檔加入管理 | ✅（Mac）<br />❌（iPhone、iPad、Apple TV、Apple Vision Pro） |
+| 帳號導向的「裝置註冊」| 手動註冊 | 透過在「設定」或「系統設定」中登入「管理式 Apple 帳號」 |✅（Mac）<br />❌（iPhone、iPad、Apple Vision Pro）|
 |帳號導向的「使用者註冊」| 手動註冊 |透過在「設定」中登入「管理式 Apple 帳號」 | ❌ |
 
 現在有各式各樣的業者提供 MDM 服務，這裡以最早支援 Apple 各項機制，並且有著眾多特有功能也具備完善支援服務， 並且可以透過統一的機制一併管理 iPhone、iPad、Apple TV、Apple Vision Pro、Apple Watch、Mac 的 Jamf Pro 作為案例進行說明。
